@@ -18,7 +18,7 @@ Folder Structure should be like that
 
 VGG16-UNet/
 
-├── VGG16-Unet.ipynb ← Training & testing notebook
+├── Vgg16-Unet.ipynb ← Training & testing notebook
 
 ├── requirements.txt ← All dependencies
 
