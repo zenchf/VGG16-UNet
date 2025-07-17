@@ -4,6 +4,9 @@ Welcome to the repository for **VGG16-UNet**, a deep learning model built for **
 
 <img width="850" height="566" alt="image" src="https://github.com/user-attachments/assets/3736508f-0fb6-4ccf-8442-0504d286ac5c" />
 
+<img width="980" height="465" alt="image" src="https://github.com/user-attachments/assets/8f57e81c-6300-44d7-bc4b-10c727cfc235" />
+
+
 ---
 
 ## 📌 Project Highlights
