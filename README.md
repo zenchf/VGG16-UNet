@@ -2,7 +2,7 @@
 
 Welcome to the repository for **VGG16-UNet**, a deep learning model built for **road lane segmentation** using the power of **VGG16 as encoder** and a **U-Net-style decoder**! 🚗💨
 
-![VGG16-UNet](https://raw.githubusercontent.com/yourusername/VGG16-UNet/main/images/vgg16_unet_architecture.png)
+<img width="850" height="566" alt="image" src="https://github.com/user-attachments/assets/3736508f-0fb6-4ccf-8442-0504d286ac5c" />
 
 ---
 
