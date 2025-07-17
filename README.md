@@ -52,6 +52,10 @@ If you're using a CPU-only system or one without AVX-512 support, avoid latest T
 Download Dataset in here: https://www.kaggle.com/datasets/manideep1108/tusimple
 
 ## 📈 Results & Metrics
+
+<img width="1216" height="444" alt="Screenshot from 2025-07-17 17-07-27" src="https://github.com/user-attachments/assets/032ea15c-889e-4da4-ba86-71c1aad7596a" />
+
+
 During training, the notebook will log:
 
 Training vs Validation Loss
