@@ -8,10 +8,15 @@ Built entirely in **TensorFlow** and executed step-by-step in a **Jupyter Notebo
 ## 📁 Folder Structure
 
 VGG16-UNet/
+
 ├── 16temmuz2.ipynb ← Training & testing notebook
+
 ├── requirements.txt ← All dependencies
+
 ├── dataset/
+
 │ ├── images/ ← Input RGB road images
+
 │ └── masks/ ← Binary lane masks
 
 ---
