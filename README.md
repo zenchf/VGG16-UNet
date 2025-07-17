@@ -29,8 +29,8 @@ VGG16-UNet/
 This project uses a **pre-trained VGG16** encoder (without the top classifier) and a decoder with skip connections, similar to the classic U-Net.
 
 **Input → VGG16 Encoder → Bottleneck → Decoder → Segmentation Mask**
-
-- Output shape: `(height, width, 1)`
+- Input shape: `(244, 244, 3)`
+- Output shape: `(244, 244, 1)`
 - Activation: `sigmoid`
 - Loss Function: `Dice Loss`
 - Metrics: `IoU`, `Accuracy`
@@ -43,6 +43,8 @@ This project uses a **pre-trained VGG16** encoder (without the top classifier) a
 
 ```bash
 pip install -r requirements.txt
+```
+
 ⚠️ TensorFlow Note:
 If you're using a CPU-only system or one without AVX-512 support, avoid latest TensorFlow versions. Use tensorflow==2.10.1 as included in this file.
 
