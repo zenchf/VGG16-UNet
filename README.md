@@ -66,4 +66,8 @@ Accuracy
 
 Random sample visualizations
 
+---
+17.07.25-17.12
+<img width="756" height="1157" alt="image" src="https://github.com/user-attachments/assets/aa4b6a3b-aabb-43e7-98b7-1a70edecc10e" />
+---
 
