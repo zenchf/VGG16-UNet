@@ -36,7 +36,6 @@ This project uses a **pre-trained VGG16** encoder (without the top classifier) a
 - Metrics: `IoU`, `Accuracy`
 
 ---
-
 ## ✅ Setup
 
 ### 1️⃣ Install Dependencies
@@ -69,5 +68,8 @@ Random sample visualizations
 ---
 17.07.25-17.12
 <img width="756" height="1157" alt="image" src="https://github.com/user-attachments/assets/aa4b6a3b-aabb-43e7-98b7-1a70edecc10e" />
+---
+
+## Model h5 file: https://drive.google.com/file/d/1aYe1wwqYwhZG3bFNMnkH17l6vyF-3CwA/view?usp=sharing
 ---
 
