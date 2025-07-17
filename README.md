@@ -4,8 +4,11 @@ This repository contains a lane segmentation project using **VGG16 as encoder** 
 Built entirely in **TensorFlow** and executed step-by-step in a **Jupyter Notebook**.
 
 <img width="980" height="465" alt="Screenshot from 2025-07-17 16-52-20" src="https://github.com/user-attachments/assets/af49d27b-ca1a-4985-8e9e-29926747e4a7" />
+
 Figure 1. VGG16 Architecture
+
 <img width="836" height="559" alt="Screenshot from 2025-07-17 17-02-32" src="https://github.com/user-attachments/assets/f5fc7809-227d-4eff-a174-ee25e7c24eae" />
+
 Figure 2. U-Net encoder-decoder Architecture
 
 ---
